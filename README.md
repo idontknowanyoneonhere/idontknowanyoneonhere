@@ -6,24 +6,20 @@
 <img src="images/welcome.png" style="max-width: 100%;" alt="Welcome to my Github Profile" />
 </div>
 
-<table width="100%" align="center">
-<tr>
-<td align="center">
-<a href="https://h961r.fun">
-<strong>Visit my personal website</strong>
+<div align="center">
+<a href="https://h961r.fun"><strong>Visit my personal website</strong></a>
 <br />
 <br />
-<p> <img alt="Globe" height="80" src="images/globe.gif"> </p>
-</a>
-</td>
-</tr>
-</table>
+<a href="https://h961r.fun"><img alt="Globe" height="80" src="images/globe.gif"></a>
+</div>
 
 <div align="center">
 <img height="120" alt="Thanks for visiting me" width="100%" src="images/marquee.svg" />
 <br />
+
 ![Visitor Count](https://komarev.com/ghpvc/?idontknowanyoneonhere&color=ff69b4)
-<br>
+
+<br />
 <img src="images/notepad.gif" alt="Site created with Notepad" height="30" />
 <!-- "margin-right: whatever;" -->
 <span>&nbsp;&nbsp;&nbsp;&nbsp;</span>
