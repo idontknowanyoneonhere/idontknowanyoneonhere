@@ -16,8 +16,9 @@
 <div align="center">
 <img height="120" alt="Thanks for visiting me" width="100%" src="images/marquee.svg" />
 <br />
+<br />
 
-![Visitor Count](https://komarev.com/ghpvc/?idontknowanyoneonhere&color=ff69b4)
+![](https://komarev.com/ghpvc/?username=idontknowanyoneonhere&color=ff69b4)
 
 <br />
 <img src="images/notepad.gif" alt="Site created with Notepad" height="30" />
@@ -26,6 +27,7 @@
 <img src="images/ie_logo.gif" alt="Microsoft Internet Explorer" />
 <span>&nbsp;&nbsp;&nbsp;&nbsp;</span>
 <img src="images/noframes.gif" alt="Microsoft Internet Explorer" />
+<br />
 </div>
 
 <div align="center">
